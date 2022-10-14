@@ -16,7 +16,7 @@
 | 消息中间件篇     | http://naotu.baidu.com/file/bb2a0809fc7ee12fe0ce6cb45eaf128f?token=d9c66c6621574fc0 |
 | 设计模式篇       | http://naotu.baidu.com/file/67a3b83a257d15fc966b95f741e7d3e1?token=2b7069793ef55217 |
 | 计算机基础篇     | http://naotu.baidu.com/file/4f73e0af8aec4c08716bc96b8bd653bc?token=c361adef1dc50c44 |
-| 多线程+JUC并发篇 | https://naotu.baidu.com/file/29b5e346543156138c94c2920bf4b9c4 |
+| 多线程+JUC并发篇 | http://naotu.baidu.com/file/29b5e346543156138c94c2920bf4b9c4?token=cea6d42bd1bac509 |
 
 将Java面试题整理成了思维导图版，有需要的就自己拿去，目前自用。
 
